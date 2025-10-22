@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblaba3_proj_lib.a CMakeFiles/laba3_proj_lib.dir/src/array.cpp.o CMakeFiles/laba3_proj_lib.dir/src/eightug.cpp.o CMakeFiles/laba3_proj_lib.dir/src/square.cpp.o CMakeFiles/laba3_proj_lib.dir/src/triangle.cpp.o
+/usr/bin/ranlib liblaba3_proj_lib.a
